@@ -2,7 +2,9 @@
 
 Hello visitor! My name is Glenn, a web developer who is based in the Philippines. I currently work as a IT Programmer in a company in Makati.
 
-## 🔭 About Me
+## 💻Tech Stack
+
+![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
 
 <!--
 **GlennRoh/GlennRoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
